@@ -31,7 +31,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
+<p>![94F5D4CA-4715-404C-A1CC-206CF77F33D5](https://github.com/FrontlineShell/osticket-prereqs/assets/164115193/10dd3a0a-e5e3-4b84-b71d-6cab88f61be3)
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
